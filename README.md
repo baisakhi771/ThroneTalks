@@ -1,5 +1,6 @@
 # ThroneTalk - Game of Thrones Summarizer
 Actual Project link : https://github.com/DSProjects2024/thronetalk-game-of-thrones-summarizer
+
 ![build-test workflow](https://github.com/DSProjects2024/thronetalk-game-of-thrones-summarizer/actions/workflows/build_test.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/DSProjects2024/thronetalk-game-of-thrones-summarizer/badge.svg)](https://coveralls.io/github/DSProjects2024/thronetalk-game-of-thrones-summarizer)
 
